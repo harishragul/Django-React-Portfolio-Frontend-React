@@ -1,0 +1,12 @@
+.skill_content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.skill_image {
+    margin-left: 35px;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 30px;
+}

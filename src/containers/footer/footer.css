@@ -1,0 +1,120 @@
+.footer {
+    background-image: url("../../assets/bg_img/w3.png");
+    background-size: 100%;
+
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.footer h1{
+    color: lightcyan;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer-content{
+    display: inline-flex;
+    margin-right: 70px;
+}
+
+.footer p{
+    color: snow;
+    font-size: 25px;
+    text-align: end;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer h3{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.footer i{
+    color: white;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.ad a{
+    color: white;
+}
+
+.ad i{
+    font-size: 15px;
+    color: red;
+}
+
+.footer_skill{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 550px){
+    .footer {
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .footer h1{
+        color: lightcyan;
+        margin-bottom: 20px;
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .footer-content{
+        display: block;
+        margin-left: auto;
+    }
+    
+    .footer p{
+        color: snow;
+        font-size: 20px;
+        text-align: left;
+        font-family: 'Courier New', Courier, monospace;
+        margin-bottom: 20px;
+    }
+    
+    .footer h3{
+        color: white;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+    }
+    
+    .footer i{
+        color: white;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    
+    .footer ul{
+        list-style-type: none;
+    }
+
+    .ad{
+        margin-top: 10px;
+    }
+    
+    .ad a{
+        color: white;
+    }
+    
+    .ad i{
+        font-size: 15px;
+        color: red;
+    }
+
+    .footer_skill{
+        display: none;
+    }
+}

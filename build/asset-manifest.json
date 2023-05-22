@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a589419.chunk.css",
+    "main.js": "/static/js/main.23a94049.chunk.js",
+    "main.js.map": "/static/js/main.23a94049.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e5473fa6.chunk.js": "/static/js/2.e5473fa6.chunk.js",
+    "static/js/2.e5473fa6.chunk.js.map": "/static/js/2.e5473fa6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.60ee74bf048dac44b1b251f011a9897e.js": "/precache-manifest.60ee74bf048dac44b1b251f011a9897e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a589419.chunk.css.map": "/static/css/main.0a589419.chunk.css.map",
+    "static/media/3ds_max.png": "/static/media/3ds_max.a40dcaeb.png",
+    "static/media/Houdini.png": "/static/media/Houdini.e1ee53fa.png",
+    "static/media/a_live.png": "/static/media/a_live.e5037a74.png",
+    "static/media/after-effects.png": "/static/media/after-effects.93d8a12a.png",
+    "static/media/cinema_4d.png": "/static/media/cinema_4d.c308657c.png",
+    "static/media/fl.png": "/static/media/fl.0676ae65.png",
+    "static/media/nuke.png": "/static/media/nuke.059f24b3.png",
+    "static/media/photo-shop.png": "/static/media/photo-shop.794f3387.png",
+    "static/media/redshift.png": "/static/media/redshift.88ec9ad5.png",
+    "static/media/vray.png": "/static/media/vray.97dc0c91.png",
+    "static/media/about.css": "/static/media/w2.2152470b.png",
+    "static/media/footer.css": "/static/media/w3.7ee967c4.png"
+  }
+}
